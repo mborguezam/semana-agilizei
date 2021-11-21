@@ -1,0 +1,15 @@
+{
+  "name": "semana-agilizei",
+  "version": "1.0.0",
+  "description": "curso ds semana agilizei pra cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.5.0",
+    "typescript": "^4.5.2"
+  }
+}
